@@ -1,5 +1,5 @@
 <template>
-    <p>UserContent {{$route.params.userId}} - {{$route.params.postId}}</p>
+    <p>UserContent {{$route.params.userId}} end</p>
 </template>
 
 <script>
